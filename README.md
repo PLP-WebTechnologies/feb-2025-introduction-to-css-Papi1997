@@ -92,11 +92,11 @@ Happy Coding! 💻✨
 
     <section>
         <p class="description">Tonny Onwonga Styling has been applied</p>
-        <img id="styled-image"C:\Users\Tonny.Onwonga\Pictures" alt="Tonny Profile Picture">
+        <img id="styled-image"C:\Tonny.Onwonga\Pictures" alt="Tonny Profile Picture">
     </section>
 
     <footer class="footer">
-        <p>&copy; 2025 My Website</p>
+        <p>2025 Tonny Website Website</p>
     </footer>
 </body>
 </html>
